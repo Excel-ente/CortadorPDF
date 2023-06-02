@@ -1,0 +1,166 @@
+2023-03-10 14:56:58,950 - INFO - Proceso iniciado - Comprobantes Patagonia
+2023-03-10 14:56:58,950 - INFO - Sub-Proceso: Cortado de PDF iniciado. - Comprobantes Patagonia
+2023-03-10 14:56:58,950 - INFO - Verificar carpeta Ouput:C:/RPA/Roboti/Patagonia/Output - Verificacion Exitosa - Comprobantes Patagonia
+2023-03-10 14:56:58,952 - INFO - Carpeta salida PDF creada :C:/RPA/Roboti/Patagonia/Output/Cortar-PDF - Comprobantes Patagonia
+2023-03-10 14:56:58,969 - INFO - Leyendo Archivo PDF: C:/RPA/Roboti/Patagonia/Input/Input.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,015 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006301.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,041 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006247.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,066 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006271.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,090 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006255.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,114 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006256.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,158 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006260.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,182 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006295.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,208 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006299.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,235 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006259.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,261 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006298.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,287 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006257.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,309 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006293.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,334 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006249.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,361 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006272.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,391 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006273.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,418 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006276.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,442 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006274.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,484 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006302.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,509 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006258.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,532 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006304.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,558 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006296.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,584 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006303.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,610 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006270.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,636 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006248.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,664 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006269.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,691 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006275.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,716 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006300.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,743 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006261.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,786 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006297.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,808 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006294.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,835 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006278.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,860 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006279.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,885 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006264.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,913 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006266.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,943 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006252.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,969 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006262.pdf - Comprobantes Patagonia
+2023-03-10 14:56:59,996 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006288.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,025 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006283.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,053 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006282.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,080 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006267.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,105 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006254.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,128 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006281.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,175 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006289.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,203 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006286.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,227 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006305.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,253 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006285.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,280 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006287.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,308 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006250.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,334 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006277.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,360 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006265.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,388 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006280.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,416 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006263.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,443 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006251.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,474 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006292.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,517 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006268.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,544 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006284.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,571 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006290.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,596 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006306.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,623 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006253.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,648 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006291.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,677 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006334.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,704 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006312.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,735 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006310.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,763 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006309.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,792 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006313.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,835 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006331.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,861 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006333.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,889 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006323.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,915 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006330.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,946 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006311.pdf - Comprobantes Patagonia
+2023-03-10 14:57:00,974 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006327.pdf - Comprobantes Patagonia
+2023-03-10 14:57:01,001 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006332.pdf - Comprobantes Patagonia
+2023-03-10 14:57:01,002 - INFO - Pdf Creados: 72 - Comprobantes Patagonia
+2023-03-10 14:57:01,002 - INFO - Finalizacion de separacion de PDF - Comprobantes Patagonia
+2023-03-10 14:57:01,002 - INFO - Verificacion de existencia del archivo excel salida :C:/RPA/Roboti/Patagonia/Output/Salida.xlsx - Comprobantes Patagonia
+2023-03-10 14:57:01,038 - INFO - Datos exportados exitosamente - Comprobantes Patagonia
+2023-03-10 14:57:01,038 - INFO - Fin de proceso - Tiempo de ejecución: 4.9 - Comprobantes Patagonia
+2023-03-10 14:59:05,830 - INFO - Proceso iniciado - Comprobantes Patagonia
+2023-03-10 14:59:05,831 - INFO - Sub-Proceso: Cortado de PDF iniciado. - Comprobantes Patagonia
+2023-03-10 14:59:05,831 - INFO - Verificar carpeta Ouput:C:/RPA/Roboti/Patagonia/Output - Verificacion Exitosa - Comprobantes Patagonia
+2023-03-10 14:59:05,832 - WARNING - Carpeta a eliminar: C:/RPA/Roboti/Patagonia/Output\Cortar-PDF - Comprobantes Patagonia
+2023-03-10 14:59:05,851 - WARNING - Archivo a eliminar: C:/RPA/Roboti/Patagonia/Output\Salida.xlsx - Comprobantes Patagonia
+2023-03-10 14:59:05,852 - INFO - Carpeta salida PDF creada :C:/RPA/Roboti/Patagonia/Output/Cortar-PDF - Comprobantes Patagonia
+2023-03-10 14:59:05,853 - INFO - Leyendo Archivo PDF: C:/RPA/Roboti/Patagonia/Input/Input.pdf - Comprobantes Patagonia
+2023-03-10 14:59:05,903 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006301.pdf - Comprobantes Patagonia
+2023-03-10 14:59:05,933 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006247.pdf - Comprobantes Patagonia
+2023-03-10 14:59:05,960 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006271.pdf - Comprobantes Patagonia
+2023-03-10 14:59:05,994 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006255.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,018 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006256.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,059 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006260.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,081 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006295.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,106 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006299.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,131 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006259.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,157 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006298.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,183 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006257.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,206 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006293.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,233 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006249.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,259 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006272.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,285 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006273.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,310 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006276.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,333 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006274.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,376 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006302.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,402 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006258.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,425 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006304.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,450 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006296.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,477 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006303.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,502 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006270.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,531 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006248.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,557 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006269.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,582 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006275.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,608 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006300.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,634 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006261.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,679 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006297.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,707 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006294.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,734 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006278.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,761 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006279.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,789 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006264.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,814 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006266.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,840 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006252.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,865 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006262.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,890 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006288.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,917 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006283.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,942 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006282.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,969 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006267.pdf - Comprobantes Patagonia
+2023-03-10 14:59:06,994 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006254.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,018 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006281.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,071 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006289.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,096 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006286.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,119 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006305.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,145 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006285.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,173 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006287.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,198 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006250.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,225 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006277.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,251 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006265.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,277 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006280.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,306 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006263.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,332 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006251.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,358 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006292.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,399 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006268.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,425 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006284.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,451 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006290.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,477 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006306.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,503 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006253.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,529 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006291.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,558 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006334.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,592 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006312.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,620 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006310.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,647 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006309.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,675 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006313.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,718 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006331.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,744 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006333.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,772 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006323.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,798 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006330.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,831 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006311.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,863 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006327.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,890 - INFO - Archivo Creado >>> C:/RPA/Roboti/Patagonia/Output/Cortar-PDF/7300_20232700006332.pdf - Comprobantes Patagonia
+2023-03-10 14:59:07,891 - INFO - Pdf Creados: 72 - Comprobantes Patagonia
+2023-03-10 14:59:07,891 - INFO - Finalizacion de separacion de PDF - Comprobantes Patagonia
+2023-03-10 14:59:07,891 - INFO - Verificacion de existencia del archivo excel salida :C:/RPA/Roboti/Patagonia/Output/Salida.xlsx - Comprobantes Patagonia
+2023-03-10 14:59:07,924 - INFO - Datos exportados exitosamente - Comprobantes Patagonia
+2023-03-10 14:59:07,924 - INFO - Fin de proceso - Tiempo de ejecución: 3.16 - Comprobantes Patagonia
